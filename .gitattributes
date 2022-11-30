@@ -1,4 +1,3 @@
-* linguist-vendored
 *.vbp linguist-language=Visual Basic 6
 *.vb linguist-language=Visual Basic 6
 *.frm linguist-language=Visual Basic 6
